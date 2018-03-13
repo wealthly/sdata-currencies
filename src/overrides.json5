@@ -1,0 +1,49 @@
+//  This file contains manually entered currency overrides
+//  to be applied after the automated data service completes,
+//  each list is in alphabetical order by their currency code.
+
+{
+  // if the currency is found it will be updated,
+  // otherwise it will be added
+  add:
+  [
+  ],
+
+  // if the currency is found it will be updated,
+  // otherwise it will be ignored
+  update:
+  [
+    {
+      code: "BAM",
+      shortName: "Convertible Mark",
+    },
+    {
+      code: "CUC",
+      shortName: "Convertible Peso",
+    },
+    {
+      code: "ILS",
+      shortName: "New Sheqel",
+    },
+    {
+      code: "PEN",
+      name: "Peruvian Sol",
+    },
+    {
+      code: "XAF",
+      name: "Central African CFA franc",
+      shortName: "CFA franc",
+    },
+    {
+      code: "XOF",
+      name: "West African CFA franc",
+      shortName: "CFA franc",
+    },
+  ],
+  
+  // if the currency is found it will be removed,
+  // otherwise it will be ignored
+  remove:
+  [
+  ]
+}
