@@ -1,4 +1,4 @@
-# <span style="display:inline-block;width:64px;height:64px;overflow:hidden;margin:0;padding:0;"><img src="https://avatars1.githubusercontent.com/u/37033013?s=200&v=4" width="64" height="64" style="vertical-align:text-bottom;margin-bottom:-40px;"></span> sdata:currencies
+# <img src="https://avatars1.githubusercontent.com/u/37033013?s=200&v=4" width="64" style="vertical-align:text-bottom"> sdata:currencies
 A dataset of global fiat currencies considered to be in circulation by their respective central banks and tradable on open markets. The verified JSON dataset can be downloaded [here](https://raw.githubusercontent.com/Wealthly/sdata-currencies/master/dist/data.json).
 
 ## Data Generation
