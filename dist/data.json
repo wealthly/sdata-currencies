@@ -29,7 +29,7 @@
     "name": "Armenian Dram",
     "shortName": "Dram",
     "decimals": 2,
-    "symbol": null
+    "symbol": "֏"
   },
   {
     "code": "ANG",
@@ -101,7 +101,7 @@
     "name": "Bangladeshi Taka",
     "shortName": "Taka",
     "decimals": 2,
-    "symbol": null
+    "symbol": "৳"
   },
   {
     "code": "BGN",
@@ -261,7 +261,7 @@
     "name": "Cuban Convertible Peso",
     "shortName": "Convertible Peso",
     "decimals": 2,
-    "symbol": null
+    "symbol": "$"
   },
   {
     "code": "CUP",
@@ -381,7 +381,7 @@
     "name": "Georgian Lari",
     "shortName": "Lari",
     "decimals": 2,
-    "symbol": null
+    "symbol": "₾"
   },
   {
     "code": "GHS",
@@ -493,7 +493,7 @@
     "name": "Indian Rupee",
     "shortName": "Rupee",
     "decimals": 2,
-    "symbol": null
+    "symbol": "₹"
   },
   {
     "code": "IQD",
@@ -1005,15 +1005,15 @@
     "name": "South Sudanese Pound",
     "shortName": "Pound",
     "decimals": 2,
-    "symbol": null
+    "symbol": "£"
   },
   {
     "code": "SVC",
     "numeric": "222",
     "name": "Salvadoran Colón",
     "shortName": "Colón",
-    "decimals": null,
-    "symbol": "$"
+    "decimals": 2,
+    "symbol": "₡"
   },
   {
     "code": "SYP",
@@ -1077,7 +1077,7 @@
     "name": "Turkish Lira",
     "shortName": "Lira",
     "decimals": 2,
-    "symbol": null
+    "symbol": "₺"
   },
   {
     "code": "TTD",
