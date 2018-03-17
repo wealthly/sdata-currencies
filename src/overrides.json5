@@ -14,20 +14,50 @@
   update:
   [
     {
+      code: "AMD",
+      symbol: "֏",
+    },
+    {
       code: "BAM",
       shortName: "Convertible Mark",
     },
     {
+      code: "BDT",
+      symbol: "৳",
+    },
+    {
       code: "CUC",
       shortName: "Convertible Peso",
+      symbol: "$",
+    },
+    {
+      code: "GEL",
+      symbol: "₾",
     },
     {
       code: "ILS",
       shortName: "New Sheqel",
     },
     {
+      code: "INR",
+      symbol: "₹",
+    },
+    {
       code: "PEN",
       name: "Peruvian Sol",
+    },
+    {
+      code: "SSP",
+      symbol: "£",
+    },
+    {
+      code: "SVC",
+      decimals: 2,
+      symbol: "₡",
+    },
+    {
+      code: "TRY",
+      symbol: "₺",
     },
     {
       code: "XAF",
